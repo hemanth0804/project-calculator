@@ -1,4 +1,4 @@
-# Simple Calculator
+# Simple Calculator(https://simple-calculator0804.netlify.app/)
 
 ## Overview
 This is a simple web-based calculator built using HTML, CSS, and JavaScript. It provides basic arithmetic operations and a user-friendly interface.
